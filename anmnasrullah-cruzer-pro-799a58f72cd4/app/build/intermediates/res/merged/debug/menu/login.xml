@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arghakroy.texibooking.LoginActivity" >
+
+    
+    <item android:id="@+id/driverloginmenu"
+        android:orderInCategory="1"
+        android:title="Driver Login"
+        android:showAsAction="never"
+        ></item>
+</menu>

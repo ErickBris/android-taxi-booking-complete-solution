@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mohamed.nasrullah\.android\build-cache\4b8f021935c950a83552e8d66555583174d994f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Clients\Taxi\Android_studio_app\app\build\intermediates\pre-dexed\debug\classes_f18ba84314704f0dcd125ab879aa1620883323f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mohamed.nasrullah\.android\build-cache\a810e2320e24e027923c68fdd593f263eacc5a35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Clients\Taxi\Android_studio_app\app\build\intermediates\pre-dexed\debug\classes_23218bd13f8226d1f10033ee15ce999d1e31bc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mohamed.nasrullah\.android\build-cache\ccc83f4a8b7b94f03ea1b8cb1035fcfa26ce9729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Clients\Taxi\Android_studio_app\app\build\intermediates\pre-dexed\debug\classes_d85724fe3921d2c58a28b1fcce51ebdeb09189f9.jar" />
+    </item>
+
+</items>

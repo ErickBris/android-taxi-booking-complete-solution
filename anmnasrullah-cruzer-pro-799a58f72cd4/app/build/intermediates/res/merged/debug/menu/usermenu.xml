@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/userProfileMenu"
+        android:icon="@drawable/ic_action_content_edit"
+        android:showAsAction="always"
+        android:orderInCategory="1"
+        android:title="Edit Profile"/>
+    <item
+        android:id="@+id/userDetailsMenu"
+        android:icon="@drawable/ic_action_collections_view_as_list"
+        android:showAsAction="always"
+        android:orderInCategory="2"
+        android:title="Taxi requests"/>
+    <item
+        android:id="@+id/useroutmneu"
+        android:icon="@drawable/ic_action_logout"
+        android:showAsAction="always"
+        android:orderInCategory="3"
+        android:title="Log Out"/>
+
+</menu>

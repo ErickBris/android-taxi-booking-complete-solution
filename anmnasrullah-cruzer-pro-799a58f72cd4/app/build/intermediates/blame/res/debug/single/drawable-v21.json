@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

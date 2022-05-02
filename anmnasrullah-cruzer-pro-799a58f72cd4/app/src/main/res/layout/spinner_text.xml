@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nas.cruzer.helper.TextViewPlaner android:id="@+id/drivername"
+    android:padding="@dimen/general_padding_10"
+    android:gravity="center|left"
+    android:textColor="@color/colorPrimaryDark"
+    android:textSize="@dimen/font_16"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:customFont="PLANER"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" />

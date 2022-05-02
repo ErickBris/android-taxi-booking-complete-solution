@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Installation Instruction</title>
+</head>
+
+<body>
+<h2>Installation Instruction</h2>
+
+<strong>Guide to setup on Android Studio</strong>
+
+<ol>
+<li>Open Android studio and open the <em>cruzer_pro</em> android project.</li>
+<li>You have to replace your json url in the following file in android
+<ul>
+<li>Util/GlobalVariable.java
+<pre>public static final String API = "http://www.jetbench.com/cruzer";</pre></li>
+
+</ul>
+</li>
+<li>Open AndroidManifest.xml file and replace Google Maps API key under <pre>com.google.android.maps.v2.API_KEY</pre>
+</li>
+<li>Final Step -  Clean and build the project</li>
+</ol>
+
+<strong>Guide to setup on Web Admin Panel</strong>
+<ol>
+<li>Upload the <em>web_sourcefiles</em> files which you got with the purchased to your web hosting server.</li>
+<li>Import the database script file (you find it in the <em>database</em> folder) to your MySQL server</li>
+<li>Final Step - You have to config the database details in two place
+<ul>
+<li>web_sourcefiles -> includes -> config.php</li>
+<li>web_sourcefiles -> core -> db_config.php</li>
+</ul>
+</li>
+</ol>
+</body>
+</html>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

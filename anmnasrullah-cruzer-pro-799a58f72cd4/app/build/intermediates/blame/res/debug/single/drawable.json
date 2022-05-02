@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\des.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\des.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speech_btn_bg.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\speech_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_style.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\switch_style.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_w.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\logo_w.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\ca661916b36ce997b81d69b33cd752a703bb87d9\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_button.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\my_button.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\ca661916b36ce997b81d69b33cd752a703bb87d9\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_button.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\complete_button.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\ef637e93ec124874eab8a6125da00cdb75be7673\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_color.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\list_selector_color.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\ca661916b36ce997b81d69b33cd752a703bb87d9\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taxi3.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\taxi3.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a8417fffceff09d77463ab5a5b0f0d94f9158f1f\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taxi.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\taxi.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\a810e2320e24e027923c68fdd593f263eacc5a35\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\ca661916b36ce997b81d69b33cd752a703bb87d9\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logobig.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\logobig.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\587be825ba2abe7ab3c279c0aa08933e26add8d4\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taxi1.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\taxi1.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_b.png",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\drawable\\logo_b.png"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\mohamed.nasrullah\\.android\\build-cache\\8fe4066f9c2401c9dfe71bcced25bf0ef6d0f2da\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]

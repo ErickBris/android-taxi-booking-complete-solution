@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryLightDark"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <TextView
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif-light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Passenger Information"
+        android:textSize="22sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp" >
+        <LinearLayout
+            android:paddingBottom="@dimen/general_padding_10"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_5"
+                android:text="@string/icon_user"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_20"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/requestDetailsName"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/colorPrimaryDark"
+                android:gravity="center|left"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:customFont="PLANER" >
+
+            </com.nas.cruzer.helper.TextViewPlaner>
+        </LinearLayout>
+        <LinearLayout
+            android:paddingBottom="@dimen/general_padding_10"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_5"
+                android:text="@string/icon_phone"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_20"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/requestDetailsPhone"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/colorPrimaryDark"
+                android:gravity="center|left"
+                android:textColor="@color/white"
+                android:autoLink="phone"
+                android:textSize="@dimen/font_14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:customFont="PLANER" >
+
+            </com.nas.cruzer.helper.TextViewPlaner>
+        </LinearLayout>
+        <LinearLayout
+            android:paddingBottom="@dimen/general_padding_10"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_5"
+                android:text="@string/icon_location"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_20"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/requestDetailsPickup"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/colorPrimaryDark"
+                android:gravity="center|left"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:customFont="PLANER" >
+
+            </com.nas.cruzer.helper.TextViewPlaner>
+        </LinearLayout>
+        <LinearLayout
+            android:paddingBottom="@dimen/general_padding_10"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_5"
+                android:text="@string/icon_drop"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_20"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/requestDetailsDrop"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/colorPrimaryDark"
+                android:gravity="center|left"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:customFont="PLANER" >
+
+            </com.nas.cruzer.helper.TextViewPlaner>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <Button
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-light"
+            android:background="@drawable/my_button"
+            android:id="@+id/requestDetailsCancelBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel Request" />
+        <View
+            android:layout_width="5dp"
+            android:layout_height="10dp"></View>
+
+        <Button
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-light"
+            android:background="@drawable/complete_button"
+            android:id="@+id/requestDetailsAccBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Accept Request" />
+    </LinearLayout>
+
+    <Button
+        android:textColor="#fff"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif-light"
+        android:background="@drawable/complete_button"
+        android:id="@+id/requestDetailsCompleteBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Complete Ride" />
+    <fragment
+        android:layout_marginTop="5dp"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

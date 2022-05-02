@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nas.cruzer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- Required to show current location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Required OpenGL ES 2.0. for Maps V2 -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_w"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".LoginActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.nas.cruzer.DriverPositionActivity" android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name="com.nas.cruzer.DriverActivity" android:label="All Requests"></activity>
+        <activity android:name="com.nas.cruzer.RequestedUserActivity" android:label="New Request!"></activity>
+        <activity android:name="com.nas.cruzer.UserRequestActivity" android:label=""></activity>
+        <activity android:name="com.nas.cruzer.UserRequestDetailsActivity"></activity>
+         <activity android:name="com.nas.cruzer.UserEditProfileActivity" android:label="My Profile"></activity>
+         <activity android:name="com.nas.cruzer.DriverTrackActivity"></activity>
+        <receiver android:name="com.nas.cruzer.UpdateReceiver"></receiver>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyD1IaX4kSk5-iTChJlpPd_7VUJTeW-_Lio" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

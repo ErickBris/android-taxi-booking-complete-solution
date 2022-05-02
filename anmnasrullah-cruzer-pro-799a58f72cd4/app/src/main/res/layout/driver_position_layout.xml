@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainfrag"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_margin="@dimen/general_padding_10"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:paddingBottom="@dimen/general_padding_10"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_10"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/icon_location"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <AutoCompleteTextView
+                android:id="@+id/mypickloc"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/white"
+                android:hint="@string/pick"
+                android:gravity="center|left"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="@dimen/font_14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <requestFocus />
+            </AutoCompleteTextView>
+        </LinearLayout>
+        <LinearLayout
+            android:foreground="?android:attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:padding="@dimen/general_padding_10"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/icon_drop"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                app:customFont="FONTAWSOME" />
+            <AutoCompleteTextView
+                android:id="@+id/driverDropLoc"
+                android:paddingRight="@dimen/general_padding_20"
+                android:paddingLeft="@dimen/general_padding_20"
+                android:background="@color/white"
+                android:hint="@string/drop"
+                android:gravity="center|left"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="@dimen/font_14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <requestFocus />
+            </AutoCompleteTextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="#fff"
+        android:layout_marginBottom="5dp"
+        android:text="TALK" />
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/ratebox"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryLightDark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="@dimen/general_padding_5"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:text="@string/fareest"
+                android:padding="@dimen/general_padding_5"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_14"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                app:customFont="PLANER" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/rate"
+                android:background="@color/black"
+                android:padding="@dimen/general_padding_5"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_26"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:customFont="PLANER" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/speechBtn"
+                android:text="@string/confirm"
+                android:padding="@dimen/general_padding_10"
+                android:gravity="center"
+                android:background="@color/yellowPrimary"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_16"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                app:customFont="PLANER" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

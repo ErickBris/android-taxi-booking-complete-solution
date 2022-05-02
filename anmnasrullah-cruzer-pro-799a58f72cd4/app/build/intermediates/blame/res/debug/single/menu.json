@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\usermenu.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\menu\\usermenu.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\driver_menu.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\menu\\driver_menu.xml"
+    },
+    {
+        "merged": "D:\\Clients\\Taxi\\Android_studio_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Clients\\Taxi\\Android_studio_app\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]

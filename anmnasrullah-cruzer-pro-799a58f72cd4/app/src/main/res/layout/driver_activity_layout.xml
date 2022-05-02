@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <Switch
+            android:background="@color/colorPrimaryLightDark"
+            android:padding="@dimen/general_padding_10"
+            android:textOn="Online"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_18"
+            android:textOff="Offline"
+            android:text="Status "
+            android:id="@+id/modeToggleBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+    </LinearLayout>
+    
+    <Spinner
+        android:id="@+id/driverRequestedRidesListFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        />
+
+    <ListView
+        android:id="@+id/driverRequestedRides"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

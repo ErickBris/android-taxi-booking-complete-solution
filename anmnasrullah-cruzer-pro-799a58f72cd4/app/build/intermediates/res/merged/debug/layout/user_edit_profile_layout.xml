@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimaryLightDark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:id="@+id/stats_ln"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_marginRight="@dimen/general_padding_2"
+            android:paddingTop="@dimen/general_padding_20"
+            android:paddingBottom="@dimen/general_padding_20"
+            android:paddingLeft="@dimen/general_padding_10"
+            android:paddingRight="@dimen/general_padding_10"
+            android:background="@color/accepted"
+            android:gravity="left"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+            <com.nas.cruzer.helper.TextViewPlaner
+                app:customFont="PLANER"
+                android:textSize="@dimen/font_16"
+                android:textColor="@color/white"
+                android:text="Total Earnings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/earnigs"
+                app:customFont="PLANER"
+                android:textSize="@dimen/font_26"
+                android:textColor="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginLeft="@dimen/general_padding_2"
+            android:paddingTop="@dimen/general_padding_20"
+            android:paddingBottom="@dimen/general_padding_20"
+            android:paddingLeft="@dimen/general_padding_10"
+            android:paddingRight="@dimen/general_padding_10"
+            android:background="@color/pending"
+            android:gravity="left"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <com.nas.cruzer.helper.TextViewPlaner
+                app:customFont="PLANER"
+                android:textSize="@dimen/font_16"
+                android:textColor="@color/white"
+                android:text="Total Rides"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <com.nas.cruzer.helper.TextViewPlaner
+                android:id="@+id/rides"
+                app:customFont="PLANER"
+                android:textSize="@dimen/font_26"
+                android:textColor="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.nas.cruzer.helper.TextViewPlaner
+        android:id="@+id/driverPhone"
+        android:padding="@dimen/general_padding_10"
+        android:gravity="center|left"
+        android:text="Full Name"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:customFont="PLANER" />
+
+    <EditText
+        android:padding="@dimen/general_padding_10"
+        android:background="@drawable/box_border"
+        android:id="@+id/userChangeProfileNameEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="normal"
+
+        />
+
+    <com.nas.cruzer.helper.TextViewPlaner
+        android:padding="@dimen/general_padding_10"
+        android:gravity="center|left"
+        android:text="Mobile"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:customFont="PLANER" />
+  
+
+    <EditText
+        android:padding="@dimen/general_padding_10"
+        android:background="@drawable/box_border"
+        android:id="@+id/userChangeProfileNumberEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-light"
+    	android:textStyle="normal"
+    	
+         />
+
+    <com.nas.cruzer.helper.TextViewPlaner
+        android:padding="@dimen/general_padding_10"
+        android:gravity="center|left"
+        android:text="Change Password"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:customFont="PLANER" />
+
+    <EditText
+        android:padding="@dimen/general_padding_10"
+        android:background="@drawable/box_border"
+        android:id="@+id/userChangeProfilePasswordEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-light"
+    	android:textStyle="normal"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" 
+        >
+
+        <Button
+            android:background="@drawable/my_button"
+            android:id="@+id/userChangeProfileCancelBtn"
+
+            android:layout_margin="1dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textSize="16sp"
+        	android:fontFamily="sans-serif-light"
+    		android:textStyle="normal" 
+            />
+
+        <Button
+            android:background="@drawable/my_button"
+            android:id="@+id/userChangeProfileSaveBtn"
+            android:layout_width="0dp"
+            android:layout_margin="1dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16sp"
+        	android:fontFamily="sans-serif-light"
+    		android:textStyle="normal"
+            android:text="Save" />
+
+    </LinearLayout>
+
+</LinearLayout>

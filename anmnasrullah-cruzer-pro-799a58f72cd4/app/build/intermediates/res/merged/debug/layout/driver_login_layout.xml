@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+ <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_margin="10dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:textColor="#947E00"
+            android:fontFamily="sans-serif-light"
+    		android:textStyle="normal"
+            android:text="Driver login" />
+
+        
+
+    </LinearLayout>
+    <View android:id="@+id/titleDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#947E00" />
+        
+    <EditText
+        android:id="@+id/loginEmailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="sans-serif-light"
+    	android:textStyle="normal"
+        android:inputType="textEmailAddress"
+        android:hint="Email address"
+        android:textSize="16sp" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/loginPassword"
+        android:fontFamily="sans-serif-light"
+    	android:textStyle="normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/lostPasswordButton"
+            android:layout_width="0dip"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="Lost Password?"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:background="@drawable/my_button"
+            android:textStyle="bold"
+            android:visibility="gone"
+             />
+        <Button
+            android:id="@+id/loginCancelButton"
+            android:layout_width="0dip"
+            android:background="@drawable/my_button"
+            android:layout_height="40dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:fontFamily="sans-serif-light"
+    		android:textStyle="normal"
+            android:textColor="#000000"
+            android:textSize="16sp"
+             />
+
+        <Button
+            android:id="@+id/loginSubmitButton"
+            android:layout_width="0dip"
+            android:background="@drawable/my_button"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:text="Login"
+            android:fontFamily="sans-serif-light"
+    		android:textStyle="normal"
+            android:textColor="#000000"
+            android:textSize="16sp"
+             />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/loginResultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:fontFamily="sans-serif-light"
+    	android:textStyle="normal"
+    	android:textColor="#AD1400"
+        android:text="TextView"
+        android:visibility="gone"
+        android:textSize="16sp" />
+
+</LinearLayout>
